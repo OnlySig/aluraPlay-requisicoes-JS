@@ -2,10 +2,10 @@
   "videos": [
     {
       "id": 1,
-      "titulo": "Conhecendo a linguagem Go | Hipsters.Talks",
-      "descricao": "3 mil visualizações",
-      "url": "https://www.youtube.com/embed/y8FeZMv37WU",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+      "titulo": "ZERANDO ELDEN RING SÓ COM TOCHAS! - Desafio SoulsBorne",
+      "descricao": "9 mil visualizações",
+      "url": "https://www.youtube.com/embed/EQij3Fnoapo",
+      "imagem": "https://yt3.ggpht.com/BE8-cQY00hZsJRjwbUTYlrjIMcYezurc2vENvti_BQtRCi7cL_D33xUhRtE4Q7CPMQsBASTJ=s48-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": 2,
@@ -23,17 +23,17 @@
     },
     {
       "id": 4,
-      "titulo": "Linguagens e ferramentas usadas em Ciência de Dados...",
-      "descricao": "2,5 mil visualizações",
-      "url": "https://www.youtube.com/embed/h83e1aAM5xQ",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+      "titulo": "Como não ser manipulado pela mídia?",
+      "descricao": "20 mil visualizações",
+      "url": "https://www.youtube.com/embed/qWIXeG-IBDY",
+      "imagem": "https://yt3.ggpht.com/ytc/AGIKgqN5Ln-2E68SY0H9VG_yEx1OPYRkI81rzb37AtubMA=s48-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": 5,
-      "titulo": "Reencontrando a paixão por programar: Beatriz Ramerindo",
-      "descricao": "1,2 mil visualizações",
-      "url": "https://www.youtube.com/embed/CnB3eLTrkn4",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+      "titulo": "O que significa a civilização perdida de Atlântida?",
+      "descricao": "45 mil visualizações",
+      "url": "https://www.youtube.com/embed/oR5VXJUyJRo",
+      "imagem": "https://yt3.ggpht.com/ytc/AGIKgqN5Ln-2E68SY0H9VG_yEx1OPYRkI81rzb37AtubMA=s48-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": 6,
@@ -44,10 +44,10 @@
     },
     {
       "id": 7,
-      "titulo": "Data Science na prática- com Jéssika Ribeiro do Grupo...",
-      "descricao": "3,2 mil visualizações",
-      "url": "https://www.youtube.com/embed/Nts3P35mHzE",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+      "titulo": "Se Deus existe, por que Ele permite o mal?",
+      "descricao": "44 mil visualizações",
+      "url": "https://www.youtube.com/embed/RywFp1n9iHw",
+      "imagem": "https://yt3.ggpht.com/ytc/AGIKgqN5Ln-2E68SY0H9VG_yEx1OPYRkI81rzb37AtubMA=s48-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": 8,
@@ -64,25 +64,46 @@
       "id": 9
     },
     {
-      "titulo": "Educação coorporativa",
-      "descricao": "9 mil visualizações",
-      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "titulo": "A Cultura da Inveja",
+      "descricao": "10 mil visualizações",
+      "url": "https://www.youtube.com/embed/c1L2JwOVc8g",
+      "imagem": "https://yt3.ggpht.com/ytc/AGIKgqN5Ln-2E68SY0H9VG_yEx1OPYRkI81rzb37AtubMA=s48-c-k-c0x00ffffff-no-rj",
       "id": 10
     },
     {
-      "titulo": "Educação coorporativa",
-      "descricao": "4 mil visualizações",
-      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "titulo": "Estúdio Ghibli: A Imaginação redentora de Hayao Miyazaki",
+      "descricao": "16 mil visualizações",
+      "url": "https://www.youtube.com/embed/PIN-wOYqc0s",
+      "imagem": "https://yt3.ggpht.com/ytc/AGIKgqN5Ln-2E68SY0H9VG_yEx1OPYRkI81rzb37AtubMA=s48-c-k-c0x00ffffff-no-rj",
       "id": 11
     },
     {
-      "titulo": "Educação coorporativa",
-      "descricao": "7 mil visualizações",
-      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "titulo": "Estamos no Fim do Império Romano?",
+      "descricao": "40 mil visualizações",
+      "url": "https://www.youtube.com/embed/-Th9Fq7pYl4",
+      "imagem": "https://yt3.ggpht.com/ytc/AGIKgqN5Ln-2E68SY0H9VG_yEx1OPYRkI81rzb37AtubMA=s48-c-k-c0x00ffffff-no-rj",
       "id": 12
+    },
+    {
+      "titulo": "Quem foi o maior Filósofo da História?",
+      "descricao": "15 mil visualização",
+      "url": "https://www.youtube.com/embed/52tc1D8byk4",
+      "imagem": "https://yt3.ggpht.com/ytc/AGIKgqN5Ln-2E68SY0H9VG_yEx1OPYRkI81rzb37AtubMA=s48-c-k-c0x00ffffff-no-rj",
+      "id": 13
+    },
+    {
+      "titulo": "classical music for night readers (a dark academia playlist)",
+      "descricao": "2 mi visualização",
+      "url": "https://www.youtube.com/embed/oIJdNQcPAMc",
+      "imagem": "https://yt3.ggpht.com/JiUOoxC6Ds3LjrqZqhZN_FamGVW7zl1DkYhfwu5ejyYWo6HwYuBAooHfTXUXUQ8K1yv4fh7gkg=s48-c-k-c0x00ffffff-no-rj",
+      "id": 14
+    },
+    {
+      "titulo": "Música Clássica Não É Chata",
+      "descricao": "1 mi visualização",
+      "url": "https://www.youtube.com/embed/hLqe9v7GDfI",
+      "imagem": "https://yt3.ggpht.com/ytc/AGIKgqPVx4t04xOyWwX5pD3AIOIbG64iDAE4zmzj1zb7Aw=s48-c-k-c0x00ffffff-no-rj",
+      "id": 15
     }
   ]
 }
